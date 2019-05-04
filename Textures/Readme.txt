@@ -1,0 +1,1 @@
+Location for any shared textures we want to use

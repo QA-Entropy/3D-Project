@@ -1,0 +1,1 @@
+Location for any kind of objects for the environment
